@@ -1,0 +1,27 @@
+[
+  {
+    "naziv": "Čokoladna torta",
+    "cijena": "3.50 €",
+    "slika": "cokoladna_torta.jpg"
+  },
+  {
+    "naziv": "Voćni kolač",
+    "cijena": "2.80 €",
+    "slika": "vocni_kolac.jpg"
+  },
+  {
+    "naziv": "Cheesecake",
+    "cijena": "3.00 €",
+    "slika": "cheesecake.jpg"
+  },
+  {
+    "naziv": "Baklava",
+    "cijena": "2.50 €",
+    "slika": "baklava.jpg"
+  },
+  {
+    "naziv": "Kremšnita",
+    "cijena": "2.90 €",
+    "slika": "kremsnita.jpg"
+  }
+]
